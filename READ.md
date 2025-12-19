@@ -58,7 +58,7 @@ python app.py
 ## Example
 
 ```
-Enter your question: What are the acts mentioned in the document?
+what is supervised learning?
 ```
 
 ---
