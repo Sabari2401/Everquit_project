@@ -1,0 +1,7 @@
+ollama
+PyPDF2
+langchain-text-splitters
+sentence-transformers
+chromadb
+torch
+numpy
