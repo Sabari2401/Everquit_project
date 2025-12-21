@@ -1,6 +1,0 @@
-PyPDF2
-langchain-text-splitters
-sentence-transformers
-transformers
-torch
-chromadb
